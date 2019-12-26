@@ -4,6 +4,7 @@
     "FreeLandManagerContract":"0xEd198886c23B79C6Ca4AAccE4532Bca343736712",
     "RefManagerContract":"0x75EED42000a67d64D7917535C282e11b68f79112",
     "RPCBlockChain":"https://api.cypress.klaytn.net:8651/",
-    "UpLoadEndPoint":"https://blocknation.herokuapp.com/uploadstx/",
-    "GetAllInfoEndPoint":"https://blocknation.herokuapp.com/alltokendata"
+    "UpLoadEndPoint":"https://blockgamezzz.glitch.me/uploadstx/",
+    "GetAllInfoEndPoint":"https://blocknation.herokuapp.com/alltokendata",
+    "StartPoint":[{"x":0, "y": 0}, {"x":1000, "y":1000}]
 }
