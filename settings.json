@@ -6,6 +6,6 @@
     "RPCBlockChain":"https://api.cypress.klaytn.net:8651/",
     "UpLoadEndPoint":"https://blockgamezzz.glitch.me/uploadstx/",
     "GetAllInfoEndPoint":"https://blocknation.herokuapp.com/alltokendata",
-    "CaverHelper":"https://blocknation.herokuapp.com/caver/",
+    "CaverHelper":"https://blockgamezzz.glitch.me/caver/",
     "StartPoint":[{"x":0, "y": 0}, {"x":1000, "y":1000}]
 }
