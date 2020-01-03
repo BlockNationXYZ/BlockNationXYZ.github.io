@@ -1,7 +1,7 @@
 {
     "xLandContract":"0xf4c0bDf6320c2A3DC3c63D5A193865c8568f7DBB",
     "XYZTokenContract":"0xE9006941652c0Ac943EA95BB3809Bc7DC3E68905",
-    "FreeLandManagerContract":"0xEd198886c23B79C6Ca4AAccE4532Bca343736712",
+    "FreeLandManagerContract":"0x4FD1C2B1dd48AC90fABBf6eCa8bE29E3E61264b7",
     "FreeXYZManager":"0xc60DF2F03C9fA492E6887B21b112839C74C653Be",
     "RefManagerContract":"0x75EED42000a67d64D7917535C282e11b68f79112",
     "RPCBlockChain":"https://api.cypress.klaytn.net:8651/",
