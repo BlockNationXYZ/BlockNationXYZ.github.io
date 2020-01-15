@@ -8,8 +8,8 @@
     "AuctionManagerContract":"0x3465a2201558031270DCf3f50d382A021c561D71",
     "SellXYZManagerContract":"0x1552691923e3a1f8EF217164F34A3895951168F6",
     "RPCBlockChain":"https://api.cypress.klaytn.net:8651/",
-    "UpLoadEndPoint":"https://blockgamezzz.glitch.me/uploadstx/",
-    "GetAllInfoEndPoint":"https://blockgamezzz.glitch.me/alltokendata",
+    "UpLoadEndPoint":"https://api.blocknation.xyz/uploadstx/",
+    "GetAllInfoEndPoint":"https://api.blocknation.xyz/alltokendata",
     "CaverHelper":"https://blockgamezzz.glitch.me/caver/",
     "StartPoint":[{"x":0, "y": 0}, {"x":1000, "y":1000}]
 }
