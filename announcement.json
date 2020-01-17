@@ -20,7 +20,7 @@
       "title": "Details here!",
       "link": "https://docs.blocknation.xyz/campaigns"
     }, 
-    "type":"warning",
+    "type":"success",
     "icon":"play"
   }
 ]
