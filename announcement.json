@@ -1,0 +1,12 @@
+[
+  {
+    "show": true,
+    "title": "Alert",
+    "heading": "Welcome to BlockNationXYZ!",
+    "content": "<p>We are pround to tell you.</p><p>We are winner 3-Tier of Klaytnhorizon hackathon</p>",
+    "action": {
+      "title": "Announcement here!",
+      "link": "https://www.klaytnhorizon.com/"
+    }
+  }
+]

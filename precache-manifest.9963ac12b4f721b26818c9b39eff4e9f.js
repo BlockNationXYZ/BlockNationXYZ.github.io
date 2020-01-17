@@ -8,24 +8,24 @@ self.__precacheManifest = [
     "url": "/img/theme/img-1-1200x1000.jpg"
   },
   {
-    "revision": "d787afc5beb89238ad2d",
-    "url": "/js/chunk-vendors.94d47ab5.js"
+    "revision": "86c90d8f125b0931399b",
+    "url": "/js/chunk-vendors.44ff9d5e.js"
   },
   {
     "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
     "url": "/img/theme/img-2-1200x1000.jpg"
   },
   {
-    "revision": "7a02e79dec889d804170a75441087b6a",
+    "revision": "8c3d6db9f14ce6c930fc79f6ce6b749a",
     "url": "/index.html"
   },
   {
-    "revision": "7e3a36ecae54f2ee4191",
-    "url": "/js/app.349fc588.js"
+    "revision": "157179e47d00ceae8bfb",
+    "url": "/js/app.d2dd8f71.js"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "/fonts/nucleo-icons.42643978.woff2"
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/fonts/nucleo-icons.2569aaea.woff"
   },
   {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/img/ill/ill-2.svg"
   },
   {
-    "revision": "60945add1f70c01e94941ffccf0d7038",
-    "url": "/img/brand/Logo2.png"
-  },
-  {
     "revision": "78777a8ca989780b01825c891e02842c",
     "url": "/img/member/kin.jpg"
+  },
+  {
+    "revision": "60945add1f70c01e94941ffccf0d7038",
+    "url": "/img/brand/Logo2.png"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/fonts/nucleo-icons.2569aaea.woff"
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/fonts/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "7e3a36ecae54f2ee4191",
-    "url": "/css/app.81296d96.css"
+    "revision": "157179e47d00ceae8bfb",
+    "url": "/css/app.5e8bb0ef.css"
   }
 ];
