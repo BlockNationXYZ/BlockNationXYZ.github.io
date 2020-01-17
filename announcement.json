@@ -7,7 +7,9 @@
     "action": {
       "title": "Announcement here!",
       "link": "https://www.klaytnhorizon.com/"
-    }
+    }, 
+    "type":"danger",
+    "icon":"tropy"
   },
   {
     "show": true,
@@ -17,6 +19,8 @@
     "action": {
       "title": "Announcement here!",
       "link": "#"
-    }
+    }, 
+    "type":"warning",
+    "icon":"play"
   }
 ]
